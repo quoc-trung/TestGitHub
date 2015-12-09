@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+docs_dev abc def
+Trung
+Hieu
+=======
+docs_dev abcd
+Trung1
+>>>>>>> 4d3bfd9360aa5fffb75b518dca3fbe9857f0efcb
